@@ -1,7 +1,7 @@
 # Introduction
 
 ```java
-main()
+public class Test
 {
 
 }
